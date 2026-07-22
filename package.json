@@ -1,0 +1,16 @@
+{
+  "name": "api-quality-monitor-app",
+  "version": "1.0.0",
+  "description": "API Quality Monitor is an app that lets you: add API endpoints, store them in a database, run endpoint tests, measure response times, check status codes, save test histories, and view results",
+  "main": "index.js",
+  "directories": {
+    "test": "tests",
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
